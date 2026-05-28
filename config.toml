@@ -26,3 +26,6 @@ hasCJKLanguage = true
 
 [frontmatter]
   staticDir = ["static"]
+
+[markup.goldmark.renderer]
+  unsafe = true
