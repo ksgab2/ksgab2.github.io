@@ -3,4 +3,4 @@ title: UI TEST
 date: 2026-05-28
 ---
 # TEST
-![[Pasted image 20260528111402.png]]
+![](Pasted%20image%2020260528120019.png)
