@@ -1,0 +1,21 @@
+site_id: "fd2b9c69-ae1b-43c7-a017-c85696ea6f14"
+
+backend:
+  name: github
+  repo: ksgab2/ksgab2.github.io # 본인의 깃허브 배포 레포 주소
+  branch: main # 우리가 사용하는 메인 브랜치
+
+media_folder: "static/images/uploads" # 블로그에 올릴 이미지 저장소
+public_folder: "/images/uploads"
+
+collections:
+  - name: "posts"
+    label: "블로그 글 관리"
+    folder: "content/posts" # 글이 저장될 위치
+    create: true # 새 글 쓰기 버튼 활성화
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "제목", name: "title", widget: "string" }
+      - { label: "출시일", name: "date", widget: "datetime" }
+      - { label: "임시저장 여부", name: "draft", widget: "boolean", default: false }
+      - { label: "본문 내용", name: "body", widget: "markdown" }

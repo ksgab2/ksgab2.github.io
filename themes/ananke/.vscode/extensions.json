@@ -1,0 +1,14 @@
+{
+	"recommendations": [
+		"pkief.material-icon-theme",
+		"yzhang.markdown-all-in-one",
+		"davidanson.vscode-markdownlint",
+		"zizmor.zizmor-vscode",
+		"redhat.vscode-yaml",
+		"streetsidesoftware.code-spell-checker-cspell-bundled-dictionaries",
+		"budparr.language-hugo-vscode",
+		"casualjim.gotemplate",
+		"dunstontc.vscode-go-syntax",
+		"jinliming2.vscode-go-template"
+	]
+}
