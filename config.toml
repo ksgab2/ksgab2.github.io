@@ -23,3 +23,6 @@ hasCJKLanguage = true
 # Clean White 테마가 내 글 폴더(post)를 메인 화면에 불러오도록 강제 지정
 [permalinks]
   post = "/:year/:month/:day/:slug/"
+
+[frontmatter]
+  staticDir = ["static"]
