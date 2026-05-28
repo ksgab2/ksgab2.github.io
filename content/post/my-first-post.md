@@ -8,4 +8,5 @@ date: 2026-05-28
 
 ![](/images/file-20260528145334416.png)
 
-![](static/images/Pasted%20image%2020260528153014.png)
+
+![](images/file-20260528154716931.png)
