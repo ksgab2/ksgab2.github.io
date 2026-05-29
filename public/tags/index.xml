@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 교육 블로그</title>
+    <link>https://ksgab2.github.io/tags/</link>
+    <description>Recent content in Tags on 교육 블로그</description>
+    <generator>Hugo</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Wed, 27 May 2026 06:35:23 +0000</lastBuildDate>
+    <atom:link href="https://ksgab2.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BooksToScrape</title>
+      <link>https://ksgab2.github.io/tags/bookstoscrape/</link>
+      <pubDate>Wed, 27 May 2026 06:35:23 +0000</pubDate>
+      <guid>https://ksgab2.github.io/tags/bookstoscrape/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>자동크롤링</title>
+      <link>https://ksgab2.github.io/tags/%EC%9E%90%EB%8F%99%ED%81%AC%EB%A1%A4%EB%A7%81/</link>
+      <pubDate>Wed, 27 May 2026 06:35:23 +0000</pubDate>
+      <guid>https://ksgab2.github.io/tags/%EC%9E%90%EB%8F%99%ED%81%AC%EB%A1%A4%EB%A7%81/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

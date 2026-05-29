@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>교육 블로그</title>
+    <link>https://ksgab2.github.io/</link>
+    <description>Recent content on 교육 블로그</description>
+    <generator>Hugo</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Thu, 28 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ksgab2.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UI TEST</title>
+      <link>https://ksgab2.github.io/2026/05/28/ui-test/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://ksgab2.github.io/2026/05/28/ui-test/</guid>
+      <description>&lt;h1 id=&#34;test&#34;&gt;TEST&lt;/h1&gt;&#xA;&lt;p&gt;&#xD;&#xA;  &lt;img src=&#34;https://ksgab2.github.io/images/file-20260528134227729.png&#34; alt=&#34;&#34;&gt;&#xD;&#xA;&#xD;&#xA;&#xA;이어드림스쿨 강사님&lt;/p&gt;&#xA;&lt;p&gt;&#xD;&#xA;  &lt;img src=&#34;https://ksgab2.github.io/images/file-20260528145334416.png&#34; alt=&#34;&#34;&gt;&#xD;&#xA;&#xD;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&#xD;&#xA;  &lt;img src=&#34;https://ksgab2.github.io/images/Pasted%20image%2020260529103006.png&#34; alt=&#34;&#34;&gt;&#xD;&#xA;&#xD;&#xA;11&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>[도서 수집] A Light in the Attic</title>
+      <link>https://ksgab2.github.io/2026/05/27/%EB%8F%84%EC%84%9C-%EC%88%98%EC%A7%91-a-light-in-the-attic/</link>
+      <pubDate>Wed, 27 May 2026 06:35:23 +0000</pubDate>
+      <guid>https://ksgab2.github.io/2026/05/27/%EB%8F%84%EC%84%9C-%EC%88%98%EC%A7%91-a-light-in-the-attic/</guid>
+      <description>&lt;h1 id=&#34;-해외-도서-실시간-수집-정보&#34;&gt;📖 해외 도서 실시간 수집 정보&lt;/h1&gt;&#xA;&lt;h2 id=&#34;-도서-상세&#34;&gt;📌 도서 상세&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;도서 제목:&lt;/strong&gt; A Light in the Attic&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;도서 가격:&lt;/strong&gt; £51.77&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;원문 링크:&lt;/strong&gt; &lt;a href=&#34;https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html&#34;&gt;보러가기&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;em&gt;본 포스팅은 책 정보 수집 미션 조건에 의거하여, Node.js 스케줄러가 5분마다 자동으로 크롤링하여 push한 마크다운 파일입니다.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>[도서 수집] Tipping the Velvet</title>
+      <link>https://ksgab2.github.io/2026/05/27/%EB%8F%84%EC%84%9C-%EC%88%98%EC%A7%91-tipping-the-velvet/</link>
+      <pubDate>Wed, 27 May 2026 06:30:00 +0000</pubDate>
+      <guid>https://ksgab2.github.io/2026/05/27/%EB%8F%84%EC%84%9C-%EC%88%98%EC%A7%91-tipping-the-velvet/</guid>
+      <description>&lt;h1 id=&#34;-해외-도서-실시간-수집-정보&#34;&gt;📖 해외 도서 실시간 수집 정보&lt;/h1&gt;&#xA;&lt;h2 id=&#34;-도서-상세&#34;&gt;📌 도서 상세&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;도서 제목:&lt;/strong&gt; Tipping the Velvet&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;도서 가격:&lt;/strong&gt; £53.74&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;원문 링크:&lt;/strong&gt; &lt;a href=&#34;https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html&#34;&gt;보러가기&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;em&gt;본 포스팅은 책 정보 수집 미션 조건에 의거하여, Node.js 스케줄러가 5분마다 자동으로 크롤링하여 push한 마크다운 파일입니다.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>[도서 수집] Sapiens: A Brief History of Humankind</title>
+      <link>https://ksgab2.github.io/2026/05/27/%EB%8F%84%EC%84%9C-%EC%88%98%EC%A7%91-sapiens-a-brief-history-of-humankind/</link>
+      <pubDate>Wed, 27 May 2026 06:20:01 +0000</pubDate>
+      <guid>https://ksgab2.github.io/2026/05/27/%EB%8F%84%EC%84%9C-%EC%88%98%EC%A7%91-sapiens-a-brief-history-of-humankind/</guid>
+      <description>&lt;h1 id=&#34;-해외-도서-실시간-수집-정보&#34;&gt;📖 해외 도서 실시간 수집 정보&lt;/h1&gt;&#xA;&lt;h2 id=&#34;-도서-상세&#34;&gt;📌 도서 상세&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;도서 제목:&lt;/strong&gt; Sapiens: A Brief History of Humankind&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;도서 가격:&lt;/strong&gt; £54.23&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;원문 링크:&lt;/strong&gt; &lt;a href=&#34;https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html&#34;&gt;보러가기&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;em&gt;본 포스팅은 책 정보 수집 미션 조건에 의거하여, Node.js 스케줄러가 5분마다 자동으로 크롤링하여 push한 마크다운 파일입니다.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>[도서 수집] Sharp Objects</title>
+      <link>https://ksgab2.github.io/2026/05/27/%EB%8F%84%EC%84%9C-%EC%88%98%EC%A7%91-sharp-objects/</link>
+      <pubDate>Wed, 27 May 2026 06:15:00 +0000</pubDate>
+      <guid>https://ksgab2.github.io/2026/05/27/%EB%8F%84%EC%84%9C-%EC%88%98%EC%A7%91-sharp-objects/</guid>
+      <description>&lt;h1 id=&#34;-해외-도서-실시간-수집-정보&#34;&gt;📖 해외 도서 실시간 수집 정보&lt;/h1&gt;&#xA;&lt;h2 id=&#34;-도서-상세&#34;&gt;📌 도서 상세&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;도서 제목:&lt;/strong&gt; Sharp Objects&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;도서 가격:&lt;/strong&gt; £47.82&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;원문 링크:&lt;/strong&gt; &lt;a href=&#34;https://books.toscrape.com/catalogue/sharp-objects_997/index.html&#34;&gt;보러가기&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;em&gt;본 포스팅은 책 정보 수집 미션 조건에 의거하여, Node.js 스케줄러가 5분마다 자동으로 크롤링하여 push한 마크다운 파일입니다.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>[도서 수집] Soumission</title>
+      <link>https://ksgab2.github.io/2026/05/27/%EB%8F%84%EC%84%9C-%EC%88%98%EC%A7%91-soumission/</link>
+      <pubDate>Wed, 27 May 2026 06:10:01 +0000</pubDate>
+      <guid>https://ksgab2.github.io/2026/05/27/%EB%8F%84%EC%84%9C-%EC%88%98%EC%A7%91-soumission/</guid>
+      <description>&lt;h1 id=&#34;-해외-도서-실시간-수집-정보&#34;&gt;📖 해외 도서 실시간 수집 정보&lt;/h1&gt;&#xA;&lt;h2 id=&#34;-도서-상세&#34;&gt;📌 도서 상세&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;도서 제목:&lt;/strong&gt; Soumission&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;도서 가격:&lt;/strong&gt; £50.10&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;원문 링크:&lt;/strong&gt; &lt;a href=&#34;https://books.toscrape.com/catalogue/soumission_998/index.html&#34;&gt;보러가기&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;em&gt;본 포스팅은 책 정보 수집 미션 조건에 의거하여, Node.js 스케줄러가 5분마다 자동으로 크롤링하여 push한 마크다운 파일입니다.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

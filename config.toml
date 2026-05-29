@@ -27,7 +27,11 @@ hasCJKLanguage = true
 [frontmatter]
   staticDir = ["static"]
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+# 휴고가 콘텐츠 내부(content/posts/images)에 있는 사진을 
+# 빌드할 때 최종 Publish 폴더로 그대로 복사해 가도록 허용하는 설정입니다.
+[imaging]
+  resampleFilter = "box"
+  quality = 75
+
+# (선택) 만약 깃허브 액션이나 빌드 설정에 따라 출력 폴더를 명시하고 싶다면
+publishDir = "public"

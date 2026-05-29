@@ -9,4 +9,5 @@ date: 2026-05-28
 ![](/images/file-20260528145334416.png)
 
 
-![](images/Pasted%20image%2020260529103006.png)11
+![](/images/Pasted%20image%2020260529103006.png)
+![](첨부파일/Pasted%20image%2020260529112607.png)
