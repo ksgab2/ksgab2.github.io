@@ -1,24 +1,61 @@
 baseURL = 'https://ksgab2.github.io/'
-title = '교육 블로그'
+title = 'yeardream'
 theme = "hugo-theme-stack-master"
 languageCode = 'ko-kr'
+defaultContentLanguage = "ko"
 hasCJKLanguage = true
 
-[params]
-  title = "Book Bot Library"
-  subtitle = "Node.js 자동화 봇이 5분마다 수집하는 실시간 도서 정보"
-  location = "Seoul, South Korea"
-  header_image = "img/home-bg.jpg"
-  sidebar = true
-  sidebar_avatar = "img/avatar.png"
-  bio = "AI교육 블로그입니다."
-  featured_tags = true
-  featured_fast = true
 
+[pagination]
+  pagerSize = 5
+# 👇 여기부터가 블로그 UI 핵심
+[params]
+  # 홈페이지를 블로그형(글 목록)으로
+  mainSections = ["posts"]
+
+  # 다크모드
+  colorScheme = "auto"   # auto | light | dark
+
+  # 글 목록 카드 설정
+  [params.article]
+    showSummary = true
+    showDate = true
+    showReadingTime = true
+
+  # 홈페이지 레이아웃
+  [params.homepage]
+    showRecent = true
+    recentLimit = 5
+
+  # 사이드바 (좌측 프로필 영역)
+  [params.sidebar]
+    subtitle = "개발과 일상을 기록합니다"
+    avatar = "avatar.png"
+
+  # 댓글 (선택)
+  # [params.article.utterances]
+  #   repo = "yourname/yourname.github.io"
+
+# 👇 메뉴 (상단 또는 사이드바)
 [[menu.main]]
-  name = "Home"
+  name = "홈"
   url = "/"
   weight = 1
+
+[[menu.main]]
+  name = "포스트"
+  url = "/posts/"
+  weight = 2
+
+[[menu.main]]
+  name = "태그"
+  url = "/tags/"
+  weight = 3
+
+[[menu.sidebar]]
+  name = "깃허브"
+  url = "https://github.com/yourname"
+
 
 # Clean White 테마가 내 글 폴더(post)를 메인 화면에 불러오도록 강제 지정
 [permalinks]
