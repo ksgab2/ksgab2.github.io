@@ -1,6 +1,6 @@
 baseURL = 'https://ksgab2.github.io/'
 title = '교육 블로그'
-theme = 'hugo-theme-cleanwhite'
+theme = "hugo-theme-stack-master"
 languageCode = 'ko-kr'
 hasCJKLanguage = true
 
